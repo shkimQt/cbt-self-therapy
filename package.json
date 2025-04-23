@@ -1,21 +1,21 @@
 {
-  "name": "cbt-self-therapy",  // 프로젝트 이름
-  "version": "1.0.0",  // 프로젝트 버전
-  "description": "A CBT self-therapy tool",  // 프로젝트 설명
-  "main": "index.js",  // 진입점 파일 (보통 index.js가 시작 파일이에요)
+  "name": "cbt-self-therapy",  
+  "version": "1.0.0",  
+  "description": "A CBT self-therapy tool",  
+  "main": "index.js",  
   "scripts": {
-    "start": "react-scripts start",  // 개발 서버 실행
-    "build": "react-scripts build",  // 빌드 명령어
-    "test": "react-scripts test",  // 테스트 실행
-    "eject": "react-scripts eject"  // 설정 추출
+    "start": "react-scripts start",  
+    "build": "react-scripts build", 
+    "test": "react-scripts test",  
+    "eject": "react-scripts eject"  
   },
   "dependencies": {
-    "react": "^17.0.2",  // React 라이브러리
-    "react-dom": "^17.0.2"  // React DOM (UI 관련)
+    "react": "^17.0.2",  
+    "react-dom": "^17.0.2"  
   },
   "devDependencies": {
-    "react-scripts": "4.0.3"  // React 앱 실행 도구
+    "react-scripts": "4.0.3"  
   },
-  "author": "Your Name",  // 작성자 이름
-  "license": "MIT"  // 라이센스
+  "author": "Your Name",  
+  "license": "MIT"  
 }
